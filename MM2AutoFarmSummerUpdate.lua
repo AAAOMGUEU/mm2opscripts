@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/mm2/refs/heads/main/AutoFarmNewVersion.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/randomshi/refs/heads/main/AutoFarmFixed.lua"))()
