@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/randomshi/refs/heads/main/AutoFarmFixed.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OmgGuysIsUnknownUser/MurderMystery2/refs/heads/main/SummerHubLatest.lua"))()
