@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/mm2opscripts/refs/heads/main/OverDriveKeylessBackup.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OmgGuysIsUnknownUser/MurderMystery2/refs/heads/main/SummerHubLatest.lua"))()
